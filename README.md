@@ -1,3 +1,4 @@
-Grama-Sanjeevini – Smart Rural Pharmacy Network
+# 💊 Grama-Sanjeevini – Smart Rural Pharmacy Network
+
 Grama-Sanjeevini is an innovative Android application developed to build a digital Rural Pharmacy Network by connecting nearby medical shops on a single platform. The app enables users to check medicine availability in nearby pharmacies before traveling, helping save time and ensuring quicker access to essential medicines.
 The application also supports pharmacists by providing features to manage medicine stock efficiently, monitor expiry dates, and highlight life-saving drugs for priority access. By bridging the gap between rural communities and pharmacies, Grama-Sanjeevini aims to improve healthcare accessibility and streamline medicine management.
