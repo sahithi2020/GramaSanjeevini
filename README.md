@@ -92,6 +92,11 @@ The vision of **Grama-Sanjeevini** is to create a smart and connected rural heal
 ## **HomeScreen**
  <img width="250" height="540" alt="Image" src="https://github.com/user-attachments/assets/d121b68f-748b-4237-a164-4cf5b8a8a120" />
 
+ ## **Pharmacy**
+ 
+
+ 
+
 
 
 
