@@ -41,7 +41,7 @@ The vision of **Grama-Sanjeevini** is to create a smart and connected rural heal
 <details>
 <summary>Click to expand</summary>
 
-## ✨ Key Features
+##  Key Features
 
 - 🔍 **Medicine Availability Check** – Search for medicines in nearby pharmacies before visiting.  
 - 🏥 **Connected Pharmacy Network** – Digitally links rural medical shops for easy access.  
@@ -49,7 +49,7 @@ The vision of **Grama-Sanjeevini** is to create a smart and connected rural heal
 - ⏳ **Expiry Date Tracking** – Monitors medicine expiry dates to reduce wastage.  
 - 🚑 **Life-Saving Drug Highlight** – Prioritizes critical medicines for emergency access.  
 
-## 🔄 User Flow
+##  User Flow
 
 1. **User Login/Register** – Users sign in to access the application.  
 2. **Search Medicine** – Enter the required medicine name.  
@@ -58,4 +58,42 @@ The vision of **Grama-Sanjeevini** is to create a smart and connected rural heal
 5. **Medicine Availability Result** – Users receive pharmacy details with medicine status.
 
 </details>
+
+---
+## 4. Technical Implementation
+
+<details>
+<summary>Click to expand</summary>
+ 🛠️ Technical Requirements
+
+- **Language:** Kotlin (Android Development)  
+- **Frontend:** XML for UI Design  
+- **Database:** Firebase Realtime Database / Firestore for storing medicine availability, pharmacy details, and stock information.  
+- **UI Architecture:** Material Design for a clean and user-friendly interface.  
+- **IDE:** Android Studio  
+- **Authentication:** Firebase Authentication for secure login and registration.  
+- **Location Services:** GPS / Location API to identify nearby pharmacies.  
+
+ ⚙️ System Workflow
+
+1. Users search for medicines in the application.  
+2. The app checks availability from nearby pharmacy databases.  
+3. Pharmacists update stock and expiry details.  
+4. The system displays available pharmacies and medicine information to users.
+
+</details>
+
+---
+## 5. App Screenshots
+
+<details>
+<summary>View Screens</summary>
+### 🏠 Home Screen
+
+
+
+
+
+
+
 
