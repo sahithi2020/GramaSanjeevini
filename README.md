@@ -89,11 +89,65 @@ The vision of **Grama-Sanjeevini** is to create a smart and connected rural heal
 <details>
 <summary>View Screens</summary>
  
-## **HomeScreen**
- <img width="250" height="540" alt="Image" src="https://github.com/user-attachments/assets/d121b68f-748b-4237-a164-4cf5b8a8a120" />
+<p align="center">
+ <img width="250" height="540" alt="HomeScreen" src="https://github.com/user-attachments/assets/d121b68f-748b-4237-a164-4cf5b8a8a120" />
 
- ## **Pharmacy**
- 
+ <img width="250" height="540" alt="Image" src="https://github.com/user-attachments/assets/7b1f1620-5b6d-4cbe-beb8-4f180246e934" />
+
+  <img width="250" height="540" alt="Image" src="https://github.com/user-attachments/assets/ceb78ffa-f008-41b4-a792-eba5fb7f6cf1" />
+</p>
+
+
+<p align="center">
+ <img width="250" height="540" alt="Image" src="https://github.com/user-attachments/assets/4c94759c-8e9a-47e6-a5ce-b4b88e85f8e2" />
+
+  <img width="250" height="540" alt="Image" src="https://github.com/user-attachments/assets/5e46294c-2fb0-49e3-9e59-e87c5406c6e3" />
+
+ <img width="250" height="540" alt="Image" src="https://github.com/user-attachments/assets/de598526-2131-430b-a714-f209e95e500f" />
+</p>
+
+
+<p align="center">
+  <img width="250" height="540" alt="Image" src="https://github.com/user-attachments/assets/8ab78022-ad78-409e-b1b2-044534f28848" />
+
+   <img width="250" height="540" alt="Image" src="https://github.com/user-attachments/assets/5315cc94-b0c2-48b2-936f-570a7f4c382c" />
+
+<img width="250" height="540" alt="Image" src="https://github.com/user-attachments/assets/71d2af7e-207f-4b2b-83a3-d2927e2c12a2" />
+</p>
+</details>
+
+---
+## 6. Impact Goals
+
+<details>
+<summary>Click to expand</summary>
+
+The goal of **Grama-Sanjeevini** is to improve healthcare accessibility in rural areas by making medicine availability faster and more convenient. The application aims to reduce unnecessary travel, minimize delays in treatment, and support pharmacies with better stock and expiry management. By digitally connecting nearby medical shops, the project strives to create a smarter and more efficient rural healthcare system.
+
+</details>
+
+---
+## 7. Success Criteria
+
+<details>
+<summary>Click to expand</summary>
+
+-  Users can check medicine availability in nearby pharmacies easily.  
+-  Pharmacists can manage medicine stock and expiry details efficiently.  
+-  Rural people can access medicines faster with reduced travel and delay.  
+
+</details>
+
+---
+
+## 🚀 How to Run
+
+<details>
+<summary>Setup Instructions</summary>
+
+
+
+
 
  
 
