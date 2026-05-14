@@ -43,11 +43,11 @@ The vision of **Grama-Sanjeevini** is to create a smart and connected rural heal
 
 ##  Key Features
 
-- 🔍 **Medicine Availability Check** – Search for medicines in nearby pharmacies before visiting.  
-- 🏥 **Connected Pharmacy Network** – Digitally links rural medical shops for easy access.  
-- 📦 **Stock Management** – Helps pharmacists maintain medicine inventory efficiently.  
-- ⏳ **Expiry Date Tracking** – Monitors medicine expiry dates to reduce wastage.  
-- 🚑 **Life-Saving Drug Highlight** – Prioritizes critical medicines for emergency access.  
+-  **Medicine Availability Check** – Search for medicines in nearby pharmacies before visiting.  
+-  **Connected Pharmacy Network** – Digitally links rural medical shops for easy access.  
+-  **Stock Management** – Helps pharmacists maintain medicine inventory efficiently.  
+-  **Expiry Date Tracking** – Monitors medicine expiry dates to reduce wastage.  
+-  **Life-Saving Drug Highlight** – Prioritizes critical medicines for emergency access.  
 
 ##  User Flow
 
@@ -140,10 +140,24 @@ The goal of **Grama-Sanjeevini** is to improve healthcare accessibility in rural
 
 ---
 
-## 🚀 How to Run
+## 8. How to Run
 
 <details>
 <summary>Setup Instructions</summary>
+
+### Clone the repository
+
+```bash
+git clone https://github.com/sahithi2020/GramaSanjeevini.git
+```
+
+### Open in Android Studio
+Open the project folder in Android Studio and sync Gradle.
+
+### Run the application
+Connect an emulator/device and click **Run ▶️**.
+
+</details>
 
 
 
